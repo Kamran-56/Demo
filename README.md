@@ -1,2 +1,3 @@
 # Demo
-Hello, this is my first Git repository
+Hello, this is my first Git repository.
+Author : Kamran Nazir
